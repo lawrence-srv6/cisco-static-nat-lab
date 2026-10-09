@@ -1,4 +1,4 @@
-# Cisco Cisco IOS Static NAT Configuration & Troubleshooting Lab
+# Cisco IOS Static NAT Configuration & Troubleshooting Lab
 
 An entry-level networking lab focused on implementing 1-to-1 Static Network Address Translation (NAT) and troubleshooting Layer 3 misconfigurations using Cisco IOS.
 
